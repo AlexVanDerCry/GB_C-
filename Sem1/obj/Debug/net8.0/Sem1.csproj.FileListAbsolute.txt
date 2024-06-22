@@ -1,0 +1,14 @@
+C:\Distr\GB\C#\Sem1\bin\Debug\net8.0\Sem1.exe
+C:\Distr\GB\C#\Sem1\bin\Debug\net8.0\Sem1.deps.json
+C:\Distr\GB\C#\Sem1\bin\Debug\net8.0\Sem1.runtimeconfig.json
+C:\Distr\GB\C#\Sem1\bin\Debug\net8.0\Sem1.dll
+C:\Distr\GB\C#\Sem1\bin\Debug\net8.0\Sem1.pdb
+C:\Distr\GB\C#\Sem1\obj\Debug\net8.0\Sem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Distr\GB\C#\Sem1\obj\Debug\net8.0\Sem1.AssemblyInfoInputs.cache
+C:\Distr\GB\C#\Sem1\obj\Debug\net8.0\Sem1.AssemblyInfo.cs
+C:\Distr\GB\C#\Sem1\obj\Debug\net8.0\Sem1.csproj.CoreCompileInputs.cache
+C:\Distr\GB\C#\Sem1\obj\Debug\net8.0\Sem1.dll
+C:\Distr\GB\C#\Sem1\obj\Debug\net8.0\refint\Sem1.dll
+C:\Distr\GB\C#\Sem1\obj\Debug\net8.0\Sem1.pdb
+C:\Distr\GB\C#\Sem1\obj\Debug\net8.0\Sem1.genruntimeconfig.cache
+C:\Distr\GB\C#\Sem1\obj\Debug\net8.0\ref\Sem1.dll

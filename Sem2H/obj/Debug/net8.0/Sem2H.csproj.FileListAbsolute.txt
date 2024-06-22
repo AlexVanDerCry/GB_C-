@@ -1,0 +1,14 @@
+C:\Distr\GB\C#\Sem2H\bin\Debug\net8.0\Sem2H.exe
+C:\Distr\GB\C#\Sem2H\bin\Debug\net8.0\Sem2H.deps.json
+C:\Distr\GB\C#\Sem2H\bin\Debug\net8.0\Sem2H.runtimeconfig.json
+C:\Distr\GB\C#\Sem2H\bin\Debug\net8.0\Sem2H.dll
+C:\Distr\GB\C#\Sem2H\bin\Debug\net8.0\Sem2H.pdb
+C:\Distr\GB\C#\Sem2H\obj\Debug\net8.0\Sem2H.GeneratedMSBuildEditorConfig.editorconfig
+C:\Distr\GB\C#\Sem2H\obj\Debug\net8.0\Sem2H.AssemblyInfoInputs.cache
+C:\Distr\GB\C#\Sem2H\obj\Debug\net8.0\Sem2H.AssemblyInfo.cs
+C:\Distr\GB\C#\Sem2H\obj\Debug\net8.0\Sem2H.csproj.CoreCompileInputs.cache
+C:\Distr\GB\C#\Sem2H\obj\Debug\net8.0\Sem2H.dll
+C:\Distr\GB\C#\Sem2H\obj\Debug\net8.0\refint\Sem2H.dll
+C:\Distr\GB\C#\Sem2H\obj\Debug\net8.0\Sem2H.pdb
+C:\Distr\GB\C#\Sem2H\obj\Debug\net8.0\Sem2H.genruntimeconfig.cache
+C:\Distr\GB\C#\Sem2H\obj\Debug\net8.0\ref\Sem2H.dll
