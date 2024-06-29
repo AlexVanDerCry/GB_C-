@@ -1,0 +1,15 @@
+C:\Distr\GB\C#\Sem3H\obj\Debug\net8.0\Sem3H.GeneratedMSBuildEditorConfig.editorconfig
+C:\Distr\GB\C#\Sem3H\obj\Debug\net8.0\Sem3H.AssemblyInfoInputs.cache
+C:\Distr\GB\C#\Sem3H\obj\Debug\net8.0\Sem3H.AssemblyInfo.cs
+C:\Distr\GB\C#\Sem3H\obj\Debug\net8.0\Sem3H.csproj.CoreCompileInputs.cache
+C:\Distr\GB\C#\Sem3H\obj\Debug\net8.0\Sem3H.sourcelink.json
+C:\Distr\GB\C#\Sem3H\bin\Debug\net8.0\Sem3H.exe
+C:\Distr\GB\C#\Sem3H\bin\Debug\net8.0\Sem3H.deps.json
+C:\Distr\GB\C#\Sem3H\bin\Debug\net8.0\Sem3H.runtimeconfig.json
+C:\Distr\GB\C#\Sem3H\bin\Debug\net8.0\Sem3H.dll
+C:\Distr\GB\C#\Sem3H\bin\Debug\net8.0\Sem3H.pdb
+C:\Distr\GB\C#\Sem3H\obj\Debug\net8.0\Sem3H.dll
+C:\Distr\GB\C#\Sem3H\obj\Debug\net8.0\refint\Sem3H.dll
+C:\Distr\GB\C#\Sem3H\obj\Debug\net8.0\Sem3H.pdb
+C:\Distr\GB\C#\Sem3H\obj\Debug\net8.0\Sem3H.genruntimeconfig.cache
+C:\Distr\GB\C#\Sem3H\obj\Debug\net8.0\ref\Sem3H.dll
