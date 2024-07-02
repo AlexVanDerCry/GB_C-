@@ -1,0 +1,15 @@
+C:\Distr\GB\C#\Sem4H\obj\Debug\net8.0\Sem4H.GeneratedMSBuildEditorConfig.editorconfig
+C:\Distr\GB\C#\Sem4H\obj\Debug\net8.0\Sem4H.AssemblyInfoInputs.cache
+C:\Distr\GB\C#\Sem4H\obj\Debug\net8.0\Sem4H.AssemblyInfo.cs
+C:\Distr\GB\C#\Sem4H\obj\Debug\net8.0\Sem4H.csproj.CoreCompileInputs.cache
+C:\Distr\GB\C#\Sem4H\obj\Debug\net8.0\Sem4H.sourcelink.json
+C:\Distr\GB\C#\Sem4H\bin\Debug\net8.0\Sem4H.exe
+C:\Distr\GB\C#\Sem4H\bin\Debug\net8.0\Sem4H.deps.json
+C:\Distr\GB\C#\Sem4H\bin\Debug\net8.0\Sem4H.runtimeconfig.json
+C:\Distr\GB\C#\Sem4H\bin\Debug\net8.0\Sem4H.dll
+C:\Distr\GB\C#\Sem4H\bin\Debug\net8.0\Sem4H.pdb
+C:\Distr\GB\C#\Sem4H\obj\Debug\net8.0\Sem4H.dll
+C:\Distr\GB\C#\Sem4H\obj\Debug\net8.0\refint\Sem4H.dll
+C:\Distr\GB\C#\Sem4H\obj\Debug\net8.0\Sem4H.pdb
+C:\Distr\GB\C#\Sem4H\obj\Debug\net8.0\Sem4H.genruntimeconfig.cache
+C:\Distr\GB\C#\Sem4H\obj\Debug\net8.0\ref\Sem4H.dll
