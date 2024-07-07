@@ -1,0 +1,15 @@
+C:\Distr\GB\C#\Sem5H\bin\Debug\net8.0\Sem5H.exe
+C:\Distr\GB\C#\Sem5H\bin\Debug\net8.0\Sem5H.deps.json
+C:\Distr\GB\C#\Sem5H\bin\Debug\net8.0\Sem5H.runtimeconfig.json
+C:\Distr\GB\C#\Sem5H\bin\Debug\net8.0\Sem5H.dll
+C:\Distr\GB\C#\Sem5H\bin\Debug\net8.0\Sem5H.pdb
+C:\Distr\GB\C#\Sem5H\obj\Debug\net8.0\Sem5H.GeneratedMSBuildEditorConfig.editorconfig
+C:\Distr\GB\C#\Sem5H\obj\Debug\net8.0\Sem5H.AssemblyInfoInputs.cache
+C:\Distr\GB\C#\Sem5H\obj\Debug\net8.0\Sem5H.AssemblyInfo.cs
+C:\Distr\GB\C#\Sem5H\obj\Debug\net8.0\Sem5H.csproj.CoreCompileInputs.cache
+C:\Distr\GB\C#\Sem5H\obj\Debug\net8.0\Sem5H.sourcelink.json
+C:\Distr\GB\C#\Sem5H\obj\Debug\net8.0\Sem5H.dll
+C:\Distr\GB\C#\Sem5H\obj\Debug\net8.0\refint\Sem5H.dll
+C:\Distr\GB\C#\Sem5H\obj\Debug\net8.0\Sem5H.pdb
+C:\Distr\GB\C#\Sem5H\obj\Debug\net8.0\Sem5H.genruntimeconfig.cache
+C:\Distr\GB\C#\Sem5H\obj\Debug\net8.0\ref\Sem5H.dll
