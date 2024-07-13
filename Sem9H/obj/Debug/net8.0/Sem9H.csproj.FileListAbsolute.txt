@@ -1,0 +1,15 @@
+C:\Distr\GB\C#\Sem9H\bin\Debug\net8.0\Sem9H.exe
+C:\Distr\GB\C#\Sem9H\bin\Debug\net8.0\Sem9H.deps.json
+C:\Distr\GB\C#\Sem9H\bin\Debug\net8.0\Sem9H.runtimeconfig.json
+C:\Distr\GB\C#\Sem9H\bin\Debug\net8.0\Sem9H.dll
+C:\Distr\GB\C#\Sem9H\bin\Debug\net8.0\Sem9H.pdb
+C:\Distr\GB\C#\Sem9H\obj\Debug\net8.0\Sem9H.GeneratedMSBuildEditorConfig.editorconfig
+C:\Distr\GB\C#\Sem9H\obj\Debug\net8.0\Sem9H.AssemblyInfoInputs.cache
+C:\Distr\GB\C#\Sem9H\obj\Debug\net8.0\Sem9H.AssemblyInfo.cs
+C:\Distr\GB\C#\Sem9H\obj\Debug\net8.0\Sem9H.csproj.CoreCompileInputs.cache
+C:\Distr\GB\C#\Sem9H\obj\Debug\net8.0\Sem9H.sourcelink.json
+C:\Distr\GB\C#\Sem9H\obj\Debug\net8.0\Sem9H.dll
+C:\Distr\GB\C#\Sem9H\obj\Debug\net8.0\refint\Sem9H.dll
+C:\Distr\GB\C#\Sem9H\obj\Debug\net8.0\Sem9H.pdb
+C:\Distr\GB\C#\Sem9H\obj\Debug\net8.0\Sem9H.genruntimeconfig.cache
+C:\Distr\GB\C#\Sem9H\obj\Debug\net8.0\ref\Sem9H.dll
